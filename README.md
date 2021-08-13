@@ -1,2 +1,3 @@
-# calendar-app-web-api
-calendar-app-web-api
+# Backend MERN - calendar
+
+Backend de aplicacion web, calendario para grupos de trabajo o similar.
